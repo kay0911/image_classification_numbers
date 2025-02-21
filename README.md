@@ -18,13 +18,6 @@ Các thư viện yêu cầu bao gồm:
 Vào file `image_classification_numbers.ipynb` để huấn luyện mô hình học sâu (CNN) với dữ liệu Mnist dataset.
 Bạn có thể chạy mô hình huấn luyện và thêm ảnh vào thư mục img để test ở trong đây
 
-
-# Liên hệ
-
-Nếu bạn gặp phải vấn đề hoặc có bất kỳ câu hỏi nào về dự án, vui lòng liên hệ với tôi qua email:
-
-[khanh091103@gmail.com]
-
 ---
 
 Cảm ơn bạn đã sử dụng dự án này!
